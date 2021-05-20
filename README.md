@@ -1,6 +1,6 @@
 # fitness-tracker
 
-Deployed Link: https://laurenzel93.github.io/fitness-tracker/
+Deployed Link: https://laurenzel93.github.io/fitness-tracker/ <br>
 GitHub Page: https://github.com/Laurenzel93/fitness-tracker
 
 ## User Story
@@ -18,4 +18,6 @@ The user should be able to:
   * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
-![Screenshot](assets/fitness-tracker.png)
+![Screenshot](assets/fitness-tracker1.png)
+![Screenshot](assets/fitness-tracker2.png)
+![Screenshot](assets/fitness-tracker3.png)
