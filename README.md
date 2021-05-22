@@ -1,6 +1,6 @@
 # fitness-tracker
 
-Deployed Link: https://laurenzel93.github.io/fitness-tracker/ <br>
+Deployed Link: https://fitness-tracker3393.herokuapp.com/ <br>
 GitHub Page: https://github.com/Laurenzel93/fitness-tracker
 
 ## User Story
